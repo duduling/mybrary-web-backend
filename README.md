@@ -2,13 +2,11 @@
 
 ### Link
 
-##### [- Mybrary web (Back-End) 보러가기)](https://github.com/engus93/mybraryWeb-backend/tree/master/Back-End)
+##### [- Mybrary web (Back-End 보러가기)](https://github.com/duduling/mybrary-web-backend)
 
-##### [- Mybrary web (Front-End 보러가기)](https://github.com/engus93/mybraryWeb-frontend)
+##### [- Mybrary web (Front-End 보러가기)](https://github.com/duduling/mybraryWeb-frontend)
 
-##### - [TIL Repository로 이동하기](https://github.com/engus93/TIL)
-
-##### - [MyBrary로 이동하기 😎](https://mybrary.netlify.com/)
+##### 🙇🏻‍♂️ 현재 서버를 내린 상태입니다. 🙇🏻‍♂️
 
 ### MyBrary 간략한 소개 🧐
 
